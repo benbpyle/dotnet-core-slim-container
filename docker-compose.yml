@@ -25,4 +25,4 @@ services:
       DD_HOSTNAME: "local-container"
       DD_APM_NON_LOCAL_TRAFFIC: "true"
       DD_DOGSTATSD_NON_LOCAL_TRAFFIC: "true"
-      DD_API_KEY: 980a41dc219d7dd3071cf4d1b79bbda6      
+      DD_API_KEY: <key>      
